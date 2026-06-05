@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import "./style.css";
 
@@ -22,16 +21,16 @@ export default function App() {
             <img src={Logo} alt="" />
           </li>
           <li>
-            <a href="#">Home</a>
+            <a href="#home">Home</a>
           </li>
           <li>
-            <a href="#">Download</a>
+            <a href="#download">Download</a>
           </li>
           <li>
-            <a href="#">App</a>
+            <a href="#app">App</a>
           </li>
           <li>
-            <a href="#">Login</a>
+            <a href="#login">Login</a>
           </li>
           <li>
             <buttom>Get Started</buttom>
